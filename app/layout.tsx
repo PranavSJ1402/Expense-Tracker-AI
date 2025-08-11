@@ -32,8 +32,8 @@ const geistMono = localFont({
 const poppins = Poppins({ weight: ["100", "900"], subsets: ["latin"]});
 
 export const metadata: Metadata = {
-  title: "Your App Title",
-  description: "Your app description",
+  title: "Tracklet AI",
+  description: "Your AI Assistant to track Expenses",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
