@@ -363,7 +363,7 @@ const AIInsights = () => {
           </div>
           <button
             onClick={loadInsights}
-            className='px-3 py-1.5 bg-gradient-to-r from-cyan-600 via-green-500 to-sky-500 hover:from-cyan-700 hover:via-green-600 hover:to-sky-600 text-white rounded-lg font-medium text-xs shadow-lg hover:shadow-xl transition-all duration-200'
+            className='px-3 py-1.5 bg-gradient-to-r from-cyan-600 via-sky-500 to-sky-500 hover:from-cyan-700 hover:via-sky-600 hover:to-sky-600 text-white rounded-lg font-medium text-xs shadow-lg hover:shadow-xl transition-all duration-200'
           >
             <span className='sm:hidden'>Refresh</span>
             <span className='hidden sm:inline'>Refresh Insights →</span>
