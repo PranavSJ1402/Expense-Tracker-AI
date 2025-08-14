@@ -1782,8 +1782,8 @@ export default function Navbar() {
                 &lt;/span&gt;
               &lt;/div&gt;
               &lt;span className='text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-gradient-to-r from-blue-600 via-cyan-500 to-sky-500 bg-clip-text text-transparent'&gt;
-                &lt;span className='hidden sm:inline'&gt;Moneylyser AI&lt;/span&gt;
-                &lt;span className='sm:hidden'&gt;Moneylyser&lt;/span&gt;
+                &lt;span className='hidden sm:inline'&gt;Tracklet AI&lt;/span&gt;
+                &lt;span className='sm:hidden'&gt;Tracklet&lt;/span&gt;
               &lt;/span&gt;
             &lt;/Link&gt;
           &lt;/div&gt;
@@ -2078,8 +2078,8 @@ export default function Navbar() {
                 /&gt;
               &lt;/div&gt;
               &lt;span className="text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-gradient-to-r from-blue-600 via-cyan-500 to-sky-500 bg-clip-text text-transparent"&gt;
-                &lt;span className="hidden sm:inline"&gt;Moneylyser AI&lt;/span&gt;
-                &lt;span className="sm:hidden"&gt;Moneylyser&lt;/span&gt;
+                &lt;span className="hidden sm:inline"&gt;Tracklet AI&lt;/span&gt;
+                &lt;span className="sm:hidden"&gt;Tracklet&lt;/span&gt;
               &lt;/span&gt;
             &lt;/Link&gt;
           &lt;/div&gt;
