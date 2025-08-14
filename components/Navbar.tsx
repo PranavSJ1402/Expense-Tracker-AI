@@ -39,7 +39,7 @@ export default function Navbar() {
               </div>
               <span className="text-sm sm:text-base md:text-lg lg:text-xl font-bold bg-gradient-to-r from-blue-600 via-cyan-500 to-sky-500 bg-clip-text text-transparent">
                 <span className="hidden sm:inline">Tracklet AI</span>
-                <span className="sm:hidden">Tracklet</span>
+                <span className="sm:hidden">Tracklet AI</span>
               </span>
             </Link>
           </div>
